@@ -22,4 +22,5 @@ for k in cc:
                 M = float(N[0])/float(N[1])
                 L.append(M)
 
+
 print('Answer of This Problem is {}!'.format(sum(L)))
